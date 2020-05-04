@@ -9,6 +9,5 @@ http://challenges2.france-cybersecurity-challenge.fr:5008/?code=$_______________
 ```
 In source code: 
 
-<?php
-	// Well done!! Here is the flag:
-	// FCSC{53d195522a15aa0ce67954dc1de7c5063174a721ee5aa924a4b9b15ba1ab6948}
+Well done!! Here is the flag:
+FCSC{53d195522a15aa0ce67954dc1de7c5063174a721ee5aa924a4b9b15ba1ab6948}
