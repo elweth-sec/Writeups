@@ -1,4 +1,4 @@
-```Bash
+```
 nc challenges1.france-cybersecurity-challenge.fr 4009
 ================================
 == Patchinko Gambling Machine ==
