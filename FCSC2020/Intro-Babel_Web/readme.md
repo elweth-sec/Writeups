@@ -9,6 +9,5 @@ Fourth step :
 
 And look the source code : 
 
-<pre><?php
-	$flag = "FCSC{5d969396bb5592634b31d4f0846d945e4befbb8c470b055ef35c0ac090b9b8b7}";
-<pre>
+$flag = "FCSC{5d969396bb5592634b31d4f0846d945e4befbb8c470b055ef35c0ac090b9b8b7}";
+
