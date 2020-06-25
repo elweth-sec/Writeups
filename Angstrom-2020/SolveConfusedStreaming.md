@@ -1,7 +1,7 @@
 Le problème est à cette condition : <br />
-if b*b < 4*a*c or a==0 or b==0 or c==0 or Decimal(b*b-4*a*c).sqrt().to_integral_value()**2==b*b-4*a*c or abs(a)>1000 or abs(b)>1000 or abs(c)>1000:
+if b\*b < 4\*a\*c or a==0 or b==0 or c==0 or Decimal(b\*b-4\*a\*c).sqrt().to_integral_value()**2==b*b-4*a*c or abs(a)>1000 or abs(b)>1000 or abs(c)>1000:
 
-Il faut que b*b < 4*a*c <br />
+Il faut que b\*b < 4\*a\*c <br />
 
 a: 1 <br />
 b: 10 <br />
